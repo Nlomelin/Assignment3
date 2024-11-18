@@ -1,6 +1,6 @@
 Nicko Lomelin 48758988
 # Assignment-3 results top here are skipped malformed rows (scroll for inputs)
- "-javaagent:C:\Users\gboun\OneDrive\Desktop\code\IntelliJ IDEA 2024.2.0.2\lib\idea_rt.jar=52138:C:\Users\gboun\OneDrive\Desktop\code\IntelliJ IDEA 2024.2.0.2\bin" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath "C:\Java code\assignment3\out\production\assignment3" ProductManagement
+ 
 Skipping malformed row: [97234d1266893b950ca56a7438d1f50b, MightySkins Skin Compatible with Razor A Kick Scooter - Geo Tile | Protective, Durable, and Unique Vinyl Decal wrap Cover | Easy to Apply, Remove, and Change Styles | Made in The USA, Sports & Outdoors | Outdoor Recreation | Skates, Skateboards & Scooters | Scooters & Equipment | Accessories]
 Skipping malformed row: [a5b115b9d2ad3a3bee270d442b5155df, MightySkins Skin Compatible with Razor A2 Kick Scooter - Rainbow Streaks | Protective, Durable, and Unique Vinyl Decal wrap Cover | Easy to Apply, Remove, and Change Styles | Made in The USA, Sports & Outdoors | Outdoor Recreation | Skates, Skateboards & Scooters | Scooters & Equipment | Accessories]
 Skipping malformed row: [3ccf626f5a074322a78c7a060058153b, Children's Factory Multi-Ethnic Costume, African Origin, Dress and Scarf, Clothing, Shoes & Jewelry | Costumes & Accessories | Kids & Baby | Girls | Costumes]
